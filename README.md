@@ -1,2 +1,2 @@
 # metrichourscalc
- Calculate your hours from a metric punchcard
+GUI that calculates your hours (in the case of time remaining, or overtime) from a metric punchcard.
